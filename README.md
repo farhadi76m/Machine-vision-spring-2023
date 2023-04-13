@@ -15,3 +15,7 @@ pip install streamlit
 streamlit run app.py
 ```
 if everything will be right open the link.
+---
+# Google Colab
+thers is a google colab notebook to run :
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AxhGr5agbwzbS4_Z3BFg1JZ4mKWvJxM5?usp=sharing]
