@@ -3,7 +3,7 @@ import numpy as np
 
 
 def show_grays(images, cols=2):
-    plt.rcParams['figure.figsize'] = (10, 20)
+    plt.rcParams['figure.figsize'] = (15, 20)
     imgs = images['image'] if isinstance(images, dict) else images
 
     if not isinstance(imgs, list):
